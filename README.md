@@ -5,4 +5,5 @@ This was my first time using Kicad to create a schematic and route a PCB. I made
 
 
 3D view of the finished design on Kicad:
-<img width="1176" height="684" alt="Screenshot 2026-05-03 at 8 02 44 PM" src="https://github.com/user-attachments/assets/efe29145-f90e-4967-a72c-f6c9c983d625" />
+<img width="782" height="577" alt="Screenshot 2026-05-04 at 7 17 05 PM" src="https://github.com/user-attachments/assets/1611b436-83b9-4bb9-a554-78de18a3c6a5" />
+
