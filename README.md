@@ -8,6 +8,15 @@ I used Kicad to create a schematic and route the PCB. I made a flower-shaped 555
 <img width="782" height="577" alt="Screenshot 2026-05-04 at 7 17 05 PM" src="https://github.com/user-attachments/assets/1611b436-83b9-4bb9-a554-78de18a3c6a5" />
 
 
+## Expected Behavior
+
+When powered with a 5V supply, the NE555 timer operates in astable mode, 
+generating a continuous clock signal. The speed of the clock is controlled 
+by turning the potentiometer (RV1), which changes the speed of the chasing 
+light effect. The CD4017 counter sequences through the 10 outputs (LEDs) to 
+light one LED at a time.
+
+
 ## Bill of Materials (BOM)
 
 | Reference | Qty | Value | Footprint | Datasheet | Purchase Link | Price | Notes |
