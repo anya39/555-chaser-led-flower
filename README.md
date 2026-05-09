@@ -1,7 +1,7 @@
 # 555-chaser-led-flower
 This is my first PCB project for Hack Club's Stasis.
 
-This was my first time using Kicad to create a schematic and route a PCB. I made a flower-shaped 555 LED Chaser board by following the Hack Club Stasis guide and adding my own customizations. 
+I used Kicad to create a schematic and route the PCB. I made a flower-shaped 555 LED Chaser board by following the Hack Club Stasis guide and adding my own customizations. 
 
 
 3D view of the finished design on Kicad:
