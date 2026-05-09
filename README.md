@@ -4,9 +4,11 @@ This is my first PCB project for Hack Club's Stasis.
 I used Kicad to create a schematic and route the PCB. I made a flower-shaped 555 LED Chaser board by following the Hack Club Stasis guide and adding my own customizations. 
 
 
-3D view of the finished design on Kicad:
+## 3D view of the finished design on Kicad:
 <img width="782" height="577" alt="Screenshot 2026-05-04 at 7 17 05 PM" src="https://github.com/user-attachments/assets/1611b436-83b9-4bb9-a554-78de18a3c6a5" />
 
+## PCB Price Estimate
+<img width="1470" height="831" alt="Screenshot 2026-05-09 at 7 05 08 PM" src="https://github.com/user-attachments/assets/57bc23c0-5eed-48e1-9f72-03434df4a0ec" />
 
 ## Expected Behavior
 
