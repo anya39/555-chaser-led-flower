@@ -35,5 +35,6 @@ light one LED at a time.
 | U2 | 1 | CD4017BE | custom_imports:N16 | [Datasheet](http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf) | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67253) | $1.27 | |
 
 **Estimated Components Total When Bought Individually: ~$6.55** (excluding shipping and tax)
+
 **Estimated PCB Total (with payment fee, excluding shipping and tax): $2.50**
 
