@@ -34,4 +34,5 @@ light one LED at a time.
 | U1 | 1 | NE555P | Package_DIP:DIP-8_W7.62mm | [Datasheet](http://www.ti.com/lit/ds/symlink/ne555.pdf) | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/NE555P/277057) | $0.51 | |
 | U2 | 1 | CD4017BE | custom_imports:N16 | [Datasheet](http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf) | [DigiKey](https://www.digikey.com/en/products/detail/texas-instruments/CD4017BE/67253) | $1.27 | |
 
-**Estimated Total: ~$6.55** (excluding shipping)
+**Estimated Components Total When Bought Individually: ~$6.55** (excluding shipping and tax)
+**Estimated PCB Total (with payment fee, excluding shipping and tax): $2.50
